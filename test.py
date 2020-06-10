@@ -1,2 +1,3 @@
 print(i m meraz)
-import base
+import
+print(__base__)
